@@ -19,6 +19,9 @@ public class JavaApplication34 {
         int num1=2,num2=3;
         suma=num1+num2;
         System.out.println("resultado:"+suma);
+        System.out.println("vamos a cambiar algo del codio para ver que funciona y podemos hacer grandes cosas con esto");
+        int num=2;
+        System.out.println(Math.PI);
     }
     
 }
